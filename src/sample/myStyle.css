@@ -1,0 +1,26 @@
+.button {
+    -fx-background-color: #728995;
+}
+.button:hover {
+    -fx-background-color: #28cde2;
+}
+
+.label  {
+    -fx-background-color: #B0BEC5;
+    -fx-text-fill: black;
+}
+#myPane {
+    -fx-background-color: #4f5f68;
+}
+
+#testCloseButton   {
+    -fx-background-color: #4f5f68;
+    -fx-text-fill: white;
+}
+#testCloseButton:hover   {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
+.root   {
+    -fx-background-color: #728995;
+}

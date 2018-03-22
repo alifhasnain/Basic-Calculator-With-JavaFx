@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Calculator V2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Calculator_V2_jar</output-path>
+    <root id="archive" name="Calculator V2.jar">
+      <element id="module-output" name="Calculator V2" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Project/jfoenix-8.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
